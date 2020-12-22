@@ -11,6 +11,7 @@
 		647770CF2592AD2B00E45223 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 647770CE2592AD2B00E45223 /* ContentView.swift */; };
 		647770D12592AD2E00E45223 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 647770D02592AD2E00E45223 /* Assets.xcassets */; };
 		647770D42592AD2E00E45223 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 647770D32592AD2E00E45223 /* Preview Assets.xcassets */; };
+		647770DD2592B86D00E45223 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 647770DC2592B86D00E45223 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		647770D02592AD2E00E45223 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		647770D32592AD2E00E45223 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		647770D52592AD2E00E45223 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		647770DC2592B86D00E45223 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -36,6 +38,7 @@
 		647770C02592AD2B00E45223 = {
 			isa = PBXGroup;
 			children = (
+				647770DC2592B86D00E45223 /* README.md */,
 				647770CB2592AD2B00E45223 /* BancoNeon */,
 				647770CA2592AD2B00E45223 /* Products */,
 			);
@@ -126,6 +129,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				647770DD2592B86D00E45223 /* README.md in Resources */,
 				647770D42592AD2E00E45223 /* Preview Assets.xcassets in Resources */,
 				647770D12592AD2E00E45223 /* Assets.xcassets in Resources */,
 			);
